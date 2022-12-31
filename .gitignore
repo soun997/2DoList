@@ -35,3 +35,7 @@ out/
 
 ### VS Code ###
 .vscode/
+
+### Database Setting & Security ###
+src/main/resources/application.properties
+docker-compose.yml
